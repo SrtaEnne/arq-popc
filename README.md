@@ -8,10 +8,13 @@
 3 - projetar a FS;</br>
 4 - conectar PO <--> PC.
 
-#### Para compilar o código, digite no terminal:
+#### Para compilar o projeto, digite no terminal:
 <pre><code> make </code></pre>
 
 #### Para executar o programa, digite no terminal:
 <pre><code> ./SquareRoot </code></pre>
+
+#### Caso não possua o makefile, basta instalá-lo com a seguinte linha de código:
+<pre><code> sudo apt install make</code></pre>
 
 ### O relatório pode ser acessado <a href = "https://docs.google.com/document/d/1yZ1FTQKbwGwANo3MpMRXlqJNo-E3RKE4FrZZ517GP-Q/edit?ts=5cb494db">aqui.</a>
