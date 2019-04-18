@@ -17,4 +17,4 @@
 #### Caso não possua o make, basta instalá-lo com a seguinte linha de código:
 <pre><code> sudo apt install make</code></pre>
 
-### O relatório pode ser acessado <a href = "https://docs.google.com/document/d/1yZ1FTQKbwGwANo3MpMRXlqJNo-E3RKE4FrZZ517GP-Q/edit?ts=5cb494db">aqui.</a>
+### O relatório do projeto pode ser acessado <a href = "https://docs.google.com/document/d/1yZ1FTQKbwGwANo3MpMRXlqJNo-E3RKE4FrZZ517GP-Q/edit?ts=5cb494db">aqui.</a>
