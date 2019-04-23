@@ -8,7 +8,9 @@
 3 - projetar a FS;</br>
 4 - conectar PO <--> PC.
 
-#### Para compilar o projeto, digite no terminal:
+#### Para compilar é necessário estar no diretório do projeto.
+
+#### Em seguida, digite no terminal:
 <pre><code> make </code></pre>
 
 #### Para executar o programa, digite no terminal:
