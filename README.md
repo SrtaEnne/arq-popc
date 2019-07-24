@@ -23,7 +23,7 @@
 
 
 
-## Colaboradores
+## Colaboradores:
 
 <table>
   <tr>
